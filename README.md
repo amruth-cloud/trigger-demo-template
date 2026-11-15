@@ -78,3 +78,7 @@ All in [src/trigger/weekly-saas-leads/find-saas-leads.ts](src/trigger/weekly-saa
 - The model ID and Notion property names were not checked against live services while preparing this template; verify them on your first local run.
 - Lead quality depends on search snippets, so qualifications can be wrong. Review leads before outreach.
 - Each run spends Tavily credits and Anthropic tokens; check your own plan and limits.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
