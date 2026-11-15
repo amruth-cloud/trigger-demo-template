@@ -1,0 +1,24 @@
+{
+  "name": "trigger-demo-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.127.0",
+    "@trigger.dev/sdk": "^4.6.3",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "trigger.dev": "^4.6.3",
+    "typescript": "^5.9.3"
+  }
+}
